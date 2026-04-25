@@ -110,26 +110,6 @@ centralized-routing-system/
 - Python 3.10 o superior.
 - Terminal o consola.
 
-## Instalación
-
-```bash
-git clone <repository-url>
-cd centralized-routing-system
-python -m venv .venv
-```
-
-En Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-En Linux/macOS:
-
-```bash
-source .venv/bin/activate
-```
-
 Instala dependencias opcionales para pruebas:
 
 ```bash
