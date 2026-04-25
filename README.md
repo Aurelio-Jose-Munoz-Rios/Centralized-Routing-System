@@ -109,7 +109,6 @@ centralized-routing-system/
 
 - Python 3.10 o superior.
 - Terminal o consola.
-- No requiere base de datos externa.
 
 ## Instalación
 
